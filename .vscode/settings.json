@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "3D GAME.sln"
+    "dotnet.defaultSolution": "UNITY-PROJECT.sln"
 }
